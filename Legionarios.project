@@ -94,5 +94,7 @@
     <File Name="main.cpp"/>
     <File Name="Legionarios.h"/>
     <File Name="Legionarios.cpp"/>
+    <File Name="../../../git/SmartPhone/Data.cpp"/>
+    <File Name="../../../git/SmartPhone/Data.h"/>
   </VirtualDirectory>
 </CodeLite_Project>
