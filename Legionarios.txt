@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/Legionarios.cpp.o ./Debug/SmartPhone_Data.cpp.o   
